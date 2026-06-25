@@ -182,6 +182,7 @@ const COUNTRIES = [
     {"GI": "Guinea"},
     {"PG": "Guinea-Bissau"},
     {"NE": "Holland"},
+    {"HD": "Honduras"},
     {"II": "India"},
     {"IO": "Indonesia"},
     {"IQ": "Iraq"},
